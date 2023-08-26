@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/LNCT-REFFTONIX/static/css/main.175a49bc.css",
+    "main.js": "/LNCT-REFFTONIX/static/js/main.49f385e1.js",
+    "static/media/about-us.png": "/LNCT-REFFTONIX/static/media/about-us.72c86009161b5b069f1b.png",
+    "static/media/consultation.jpg": "/LNCT-REFFTONIX/static/media/consultation.db8058e39588abde04d9.jpg",
+    "static/media/hero section.png": "/LNCT-REFFTONIX/static/media/hero section.e03b2dd083783723c69f.png",
+    "static/media/event3.jpg": "/LNCT-REFFTONIX/static/media/event3.0913909d5f87e3e62f80.jpg",
+    "static/media/donoe ren.jpg": "/LNCT-REFFTONIX/static/media/donoe ren.cff3e981cd39f6d1de9f.jpg",
+    "static/media/video-bg.jpg": "/LNCT-REFFTONIX/static/media/video-bg.5eb118de70429ce9f720.jpg",
+    "static/media/maintainance.jpg": "/LNCT-REFFTONIX/static/media/maintainance.cc32c1134dc436dac093.jpg",
+    "static/media/event1.jpg": "/LNCT-REFFTONIX/static/media/event1.ab2cb1632aaadbab8e22.jpg",
+    "static/media/logo.png": "/LNCT-REFFTONIX/static/media/logo.c77efa00f145ff0a4016.png",
+    "static/media/photography.jpg": "/LNCT-REFFTONIX/static/media/photography.1a8085f64a82a53bde41.jpg",
+    "static/media/remixicon.svg?t=1690730386070": "/LNCT-REFFTONIX/static/media/remixicon.db77551b8efc76571c4f.svg",
+    "static/media/event4.jpg": "/LNCT-REFFTONIX/static/media/event4.8a934f97ce003ad06154.jpg",
+    "static/media/event2.jpg": "/LNCT-REFFTONIX/static/media/event2.28c45932dffd30ca4016.jpg",
+    "static/media/pre drone.jpg": "/LNCT-REFFTONIX/static/media/pre drone.4e8f416cee9423b8589c.jpg",
+    "static/media/web-design.jpg": "/LNCT-REFFTONIX/static/media/web-design.232a08494f8e72a8a342.jpg",
+    "static/media/event6.jpg": "/LNCT-REFFTONIX/static/media/event6.46d3c1e2aa82394bfa0b.jpg",
+    "static/media/remixicon.eot?t=1690730386070": "/LNCT-REFFTONIX/static/media/remixicon.53ec05edb4b6864b45b1.eot",
+    "static/media/remixicon.ttf?t=1690730386070": "/LNCT-REFFTONIX/static/media/remixicon.4aa0fd158658e2a40e79.ttf",
+    "static/media/event5.jpg": "/LNCT-REFFTONIX/static/media/event5.49903553164e36e2ce0e.jpg",
+    "static/media/remixicon.woff?t=1690730386070": "/LNCT-REFFTONIX/static/media/remixicon.affd60ca37df38cfee4f.woff",
+    "static/media/remixicon.woff2?t=1690730386070": "/LNCT-REFFTONIX/static/media/remixicon.821a773710130bcf4674.woff2",
+    "static/media/testimonial.jpg": "/LNCT-REFFTONIX/static/media/testimonial.1ee298e72c2b04d9122a.jpg",
+    "static/media/event7.jpg": "/LNCT-REFFTONIX/static/media/event7.bdb8b6fdfe52389030e7.jpg",
+    "static/media/company-4.png": "/LNCT-REFFTONIX/static/media/company-4.d64869d0d60ccbcc1adf.png",
+    "static/media/company-1.png": "/LNCT-REFFTONIX/static/media/company-1.778eb8083b389c4f8d74.png",
+    "static/media/slick.svg": "/LNCT-REFFTONIX/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/LNCT-REFFTONIX/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/LNCT-REFFTONIX/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/LNCT-REFFTONIX/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/LNCT-REFFTONIX/index.html",
+    "main.175a49bc.css.map": "/LNCT-REFFTONIX/static/css/main.175a49bc.css.map",
+    "main.49f385e1.js.map": "/LNCT-REFFTONIX/static/js/main.49f385e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.175a49bc.css",
+    "static/js/main.49f385e1.js"
+  ]
+}
